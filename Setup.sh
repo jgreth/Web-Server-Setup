@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------------
-# [Damian] Ubuntu 16.04 Web Server Setup
+# [Damian] Web Server Setup Script
 #          Simple Web Server Setup Script
 # ------------------------------------------------------------------
 
