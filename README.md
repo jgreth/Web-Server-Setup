@@ -1,2 +1,21 @@
-# Web-Server-Setup
-This script will automatically install and setup Apache, PHP  and MySQL on Ubuntu servers.
+# Ubuntu Web Server Setup
+
+This script installs and sets up Apache, PHP and MySQL on most Ubuntu servers.
+
+### Tested on
+
+```
+Ubuntu 16.04
+```
+
+### Installing
+
+```
+https://github.com/bentonuk/Web-Server-Setup.git
+cd Web-Server-Setup
+sudo ./Setup.sh
+```
+
+## Authors
+
+* **Damian Benton** - *Developer* - [bentonuk](https://damian.systems)
