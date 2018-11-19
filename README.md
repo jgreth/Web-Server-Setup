@@ -1,6 +1,6 @@
-# Ubuntu Web Server Setup
+# Web Server Setup
 
-This script installs and sets up Apache, PHP and MySQL on most Ubuntu servers.
+This script installs and sets up Apache, PHP and MySQL
 
 ### Tested on
 
